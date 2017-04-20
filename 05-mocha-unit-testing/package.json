@@ -1,5 +1,5 @@
 {
-  "name": "03-rest-express",
+  "name": "05-mocha-unit-testing",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -8,6 +8,11 @@
   },
   "author": "Thirunavukkarasu",
   "license": "MIT",
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "should": "^11.2.1",
+    "supertest": "^3.0.0"
+  },
   "dependencies": {
     "express": "^4.15.2"
   }

@@ -1,15 +1,12 @@
 {
-  "name": "04-config-express",
+  "name": "06-fcc-url-shortner",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js"
+    "start": "node server.js"
   },
   "author": "Thirunavukkarasu",
-  "license": "MIT",
-  "dependencies": {
-    "express": "^4.15.2"
-  }
+  "license": "MIT"
 }

@@ -1,6 +1,5 @@
 var supertest = require("supertest");
 var should    = require("should");
-
 var server    = supertest.agent("http://localhost:8080");
 
 

@@ -1,1 +1,1 @@
-# nodejs-workshop
+# NodeJS-workshop
